@@ -1,3 +1,3 @@
-<b>.vscode</b> directory location: ~\.vscode
+<p><b>.vscode</b> directory location: ~\.vscode</p>
 <br />
-<b>Code</b> directory location: %appdata%\Code
+<p><b>Code</b> directory location: %appdata%\Code</p>
